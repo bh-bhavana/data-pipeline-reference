@@ -54,7 +54,7 @@ XML Output on S3: https://bluepipes-xml-feed.s3.us-west-2.amazonaws.com/bluepipe
 
 ---
 
-#BHAuth Class (Bullhorn OAuth2.0)
+#[BHAuth Class](./BHAuth.mjs) (Bullhorn OAuth2.0)
 
 ###Process:
 
@@ -74,7 +74,7 @@ XML Output on S3: https://bluepipes-xml-feed.s3.us-west-2.amazonaws.com/bluepipe
 
 ---
 
-#DDB Module
+#[DDB Module](./ddb.mjs)
 
 This module provides utility functions to update and retrieve Bullhorn API tokens stored in an AWS DynamoDB table.
 
