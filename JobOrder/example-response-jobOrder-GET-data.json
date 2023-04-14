@@ -1,0 +1,55 @@
+{
+  "data": {
+    "id": 141602,
+    "isPublic": 0,
+    "dateAdded": 1676413687820,
+    "clientCorporation": {
+      "id": 91,
+      "name": "French Hospital Medical Center",
+      "address": {
+        "city": "San Luis Obispo",
+        "state": "California"
+      }
+    },
+    "customText8": "No",
+    "customText9": "I",
+    "customText6": "Maestro",
+    "categories": {
+      "total": 1,
+      "data": [
+        {
+          "id": 2000000,
+          "name": "RN"
+        }
+      ]
+    },
+    "customText5": "Cath-Vasc Lab",
+    "title": "RN - Cath-Vasc Lab",
+    "isOpen": false,
+    "publicDescription": "<p>Ext request for Sarkis Bodozian</p>\n",
+    "numOpenings": 1,
+    "status": "Placed",
+    "customText2": "12hr Days",
+    "correlatedCustomText10": "36",
+    "customInt4": 3,
+    "salary": 2769.84,
+    "customText10": "124",
+    "customText11": "74",
+    "startDate": 1649044800000,
+    "durationWeeks": 2.0,
+    "certifications": {
+      "total": 0,
+      "data": []
+    },
+    "correlatedCustomText1": "158.55",
+    "customText14": "158.55",
+    "address": {
+      "city": "San Luis Obispo",
+      "state": "California"
+    },
+    "customInt1": 0,
+    "correlatedCustomFloat1": 32.95,
+    "correlatedCustomFloat2": 868.0,
+    "correlatedCustomFloat3": 518.0
+  }
+}

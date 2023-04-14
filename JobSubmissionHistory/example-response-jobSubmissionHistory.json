@@ -1,0 +1,5288 @@
+{
+  "start": 0,
+  "count": 139,
+  "data": [
+    {
+      "id": 664685,
+      "dateAdded": 1677890921397,
+      "jobSubmission": {
+        "id": 636219,
+        "jobOrder": {
+          "id": 140935,
+          "title": "RN - Telemetry",
+          "dateAdded": 1676050173870,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 42969,
+          "firstName": "Victor Michael",
+          "lastName": "Flores",
+          "owner": {
+            "id": 51989,
+            "firstName": "Drew",
+            "lastName": "Gold",
+            "name": "Drew Gold"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 51989,
+        "_subtype": "CorporateUser",
+        "firstName": "Drew",
+        "lastName": "Gold",
+        "name": "Drew Gold"
+      },
+      "status": "Internal Submission",
+      "transactionID": "AD23F236-3CA7-4D42-80BE-97A0637E3826"
+    },
+    {
+      "id": 664684,
+      "dateAdded": 1677890735693,
+      "jobSubmission": {
+        "id": 634162,
+        "jobOrder": {
+          "id": 143906,
+          "title": "RN - Telemetry",
+          "dateAdded": 1677687789000,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 42969,
+          "firstName": "Victor Michael",
+          "lastName": "Flores",
+          "owner": {
+            "id": 51989,
+            "firstName": "Drew",
+            "lastName": "Gold",
+            "name": "Drew Gold"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 51989,
+        "_subtype": "CorporateUser",
+        "firstName": "Drew",
+        "lastName": "Gold",
+        "name": "Drew Gold"
+      },
+      "status": "Internal Submission",
+      "transactionID": "21A828D8-0BF8-4C02-934D-557F8A2C60CB"
+    },
+    {
+      "id": 664679,
+      "dateAdded": 1677890034810,
+      "jobSubmission": {
+        "id": 636215,
+        "jobOrder": {
+          "id": 142817,
+          "title": "RN - Labor & Delivery",
+          "dateAdded": 1677098134783,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 25642,
+          "firstName": "Tira",
+          "lastName": "Haslem",
+          "owner": {
+            "id": 9742,
+            "firstName": "Megan",
+            "lastName": "Hertz",
+            "name": "Megan Hertz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8822,
+        "_subtype": "CorporateUser",
+        "firstName": "Ryan",
+        "lastName": "Bickett-Hickok",
+        "name": "Ryan Bickett-Hickok"
+      },
+      "status": "Internal Submission",
+      "transactionID": "F67265E4-13BA-4477-8086-6C4BB90C3CAC"
+    },
+    {
+      "id": 664281,
+      "dateAdded": 1677881715107,
+      "jobSubmission": {
+        "id": 635850,
+        "jobOrder": {
+          "id": 144188,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677792370370,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 57431,
+          "firstName": "Allison",
+          "lastName": "Rohaley",
+          "owner": {
+            "id": 26880,
+            "firstName": "Juan",
+            "lastName": "Nava",
+            "name": "Juan Nava"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 51800,
+        "_subtype": "CorporateUser",
+        "firstName": "Carlos",
+        "lastName": "Jauregui",
+        "name": "Carlos Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "AF5E3A11-ADD3-4F04-A780-A3F7ABCEC640"
+    },
+    {
+      "id": 664279,
+      "dateAdded": 1677881546560,
+      "jobSubmission": {
+        "id": 633827,
+        "jobOrder": {
+          "id": 144143,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677786292803,
+          "owner": {
+            "id": 54548,
+            "firstName": "Kayla",
+            "lastName": "Starbuck",
+            "name": "Kayla Starbuck"
+          }
+        },
+        "candidate": {
+          "id": 56673,
+          "firstName": "Austin",
+          "lastName": "Bowman",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "6B639354-023E-4B62-BCAF-4E01FF60B766"
+    },
+    {
+      "id": 664277,
+      "dateAdded": 1677881363057,
+      "jobSubmission": {
+        "id": 635122,
+        "jobOrder": {
+          "id": 144319,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677858289377,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 56673,
+          "firstName": "Austin",
+          "lastName": "Bowman",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "17B3C2CA-3560-4269-85D4-E64325607EE4"
+    },
+    {
+      "id": 664272,
+      "dateAdded": 1677880810120,
+      "jobSubmission": {
+        "id": 635849,
+        "jobOrder": {
+          "id": 144328,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677859636910,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 54299,
+          "firstName": "Alexis",
+          "lastName": "Perona",
+          "owner": {
+            "id": 15051,
+            "firstName": "Janet",
+            "lastName": "Jauregui",
+            "name": "Janet Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 15051,
+        "_subtype": "CorporateUser",
+        "firstName": "Janet",
+        "lastName": "Jauregui",
+        "name": "Janet Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "8169E2FD-6A21-40CD-94F0-C9AA928001B4"
+    },
+    {
+      "id": 664271,
+      "dateAdded": 1677880665587,
+      "jobSubmission": {
+        "id": 626853,
+        "jobOrder": {
+          "id": 138070,
+          "title": "RN - Med-Surg - Ortho",
+          "dateAdded": 1675208694343,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 56673,
+          "firstName": "Austin",
+          "lastName": "Bowman",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "7A69FC82-E605-40F3-A2A4-DEF899B9A7D7"
+    },
+    {
+      "id": 664258,
+      "dateAdded": 1677880134970,
+      "jobSubmission": {
+        "id": 635838,
+        "jobOrder": {
+          "id": 138985,
+          "title": "RN - Surgery - OR",
+          "dateAdded": 1675726629183,
+          "owner": {
+            "id": 302,
+            "firstName": "Jobrobotix",
+            "lastName": "API",
+            "name": "Jobrobotix API"
+          }
+        },
+        "candidate": {
+          "id": 59986,
+          "firstName": "Michelle",
+          "lastName": "Battles",
+          "owner": {
+            "id": 675,
+            "firstName": "Raul",
+            "lastName": "Mota",
+            "name": "Raul Mota"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 675,
+        "_subtype": "CorporateUser",
+        "firstName": "Raul",
+        "lastName": "Mota",
+        "name": "Raul Mota"
+      },
+      "status": "Internal Submission",
+      "transactionID": "B0B95BD1-5C83-4F0D-BF62-45824C2CDFF9"
+    },
+    {
+      "id": 664246,
+      "dateAdded": 1677879243987,
+      "jobSubmission": {
+        "id": 635829,
+        "jobOrder": {
+          "id": 144161,
+          "title": "RN - Surgery - PACU",
+          "dateAdded": 1677788246010,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 51935,
+          "firstName": "Rachael",
+          "lastName": "Palen",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "EEBDD54B-6200-4645-9269-AC8DF61EB4D3"
+    },
+    {
+      "id": 664245,
+      "dateAdded": 1677878954213,
+      "jobSubmission": {
+        "id": 635819,
+        "jobOrder": {
+          "id": 144430,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677878508427,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 57167,
+          "firstName": "Rory",
+          "lastName": "Pattison",
+          "owner": {
+            "id": 51800,
+            "firstName": "Carlos",
+            "lastName": "Jauregui",
+            "name": "Carlos Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 51800,
+        "_subtype": "CorporateUser",
+        "firstName": "Carlos",
+        "lastName": "Jauregui",
+        "name": "Carlos Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "9B7A50FC-4AEC-4BED-97A7-95DA1F875563"
+    },
+    {
+      "id": 664243,
+      "dateAdded": 1677878844577,
+      "jobSubmission": {
+        "id": 635828,
+        "jobOrder": {
+          "id": 143988,
+          "title": "RN - Surgery - PACU",
+          "dateAdded": 1677704896560,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 51935,
+          "firstName": "Rachael",
+          "lastName": "Palen",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "E3B3258C-B7B9-420C-99FC-175A1557E87B"
+    },
+    {
+      "id": 664235,
+      "dateAdded": 1677878685203,
+      "jobSubmission": {
+        "id": 635820,
+        "jobOrder": {
+          "id": 140915,
+          "title": "RN - Med-Surg - Rehab",
+          "dateAdded": 1676050151313,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59842,
+          "firstName": "Hannah",
+          "lastName": "Price",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "82CE810E-1A8E-4085-91A7-BD23481953F0"
+    },
+    {
+      "id": 663920,
+      "dateAdded": 1677878123307,
+      "jobSubmission": {
+        "id": 635505,
+        "jobOrder": {
+          "id": 140922,
+          "title": "RN - Med-Surg",
+          "dateAdded": 1676050159053,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59842,
+          "firstName": "Hannah",
+          "lastName": "Price",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "E34061A9-1617-4078-9E41-2EB82F4AD7EF"
+    },
+    {
+      "id": 663918,
+      "dateAdded": 1677877881767,
+      "jobSubmission": {
+        "id": 635504,
+        "jobOrder": {
+          "id": 141228,
+          "title": "RN - Labor & Delivery",
+          "dateAdded": 1676310040663,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 53303,
+          "firstName": "Sophia",
+          "lastName": "Jackson",
+          "owner": {
+            "id": 57726,
+            "firstName": "Miriah Jo",
+            "lastName": "Reiss",
+            "name": "Miriah Jo Reiss"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 57726,
+        "_subtype": "CorporateUser",
+        "firstName": "Miriah Jo",
+        "lastName": "Reiss",
+        "name": "Miriah Jo Reiss"
+      },
+      "status": "Internal Submission",
+      "transactionID": "B0AAA298-8BFE-4D76-B73F-3A00FA765FE5"
+    },
+    {
+      "id": 663917,
+      "dateAdded": 1677877804507,
+      "jobSubmission": {
+        "id": 635504,
+        "jobOrder": {
+          "id": 141228,
+          "title": "RN - Labor & Delivery",
+          "dateAdded": 1676310040663,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 53303,
+          "firstName": "Sophia",
+          "lastName": "Jackson",
+          "owner": {
+            "id": 57726,
+            "firstName": "Miriah Jo",
+            "lastName": "Reiss",
+            "name": "Miriah Jo Reiss"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 57726,
+        "_subtype": "CorporateUser",
+        "firstName": "Miriah Jo",
+        "lastName": "Reiss",
+        "name": "Miriah Jo Reiss"
+      },
+      "status": "Internal Submission",
+      "transactionID": "548F1D88-8EF4-4432-8B39-81BF8E689D43"
+    },
+    {
+      "id": 663886,
+      "dateAdded": 1677874174667,
+      "jobSubmission": {
+        "id": 635480,
+        "jobOrder": {
+          "id": 143699,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677604935633,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 56111,
+          "firstName": "Stephanie",
+          "lastName": "Vaknin",
+          "owner": {
+            "id": 20947,
+            "firstName": "Paul",
+            "lastName": "Ulrich",
+            "name": "Paul Ulrich"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 20947,
+        "_subtype": "CorporateUser",
+        "firstName": "Paul",
+        "lastName": "Ulrich",
+        "name": "Paul Ulrich"
+      },
+      "status": "Internal Submission",
+      "transactionID": "B7F4F8C1-0AAE-410E-BE63-FF5213611D49"
+    },
+    {
+      "id": 663815,
+      "dateAdded": 1677872829897,
+      "jobSubmission": {
+        "id": 635174,
+        "jobOrder": {
+          "id": 142067,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1676654131727,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 54299,
+          "firstName": "Alexis",
+          "lastName": "Perona",
+          "owner": {
+            "id": 15051,
+            "firstName": "Janet",
+            "lastName": "Jauregui",
+            "name": "Janet Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 15051,
+        "_subtype": "CorporateUser",
+        "firstName": "Janet",
+        "lastName": "Jauregui",
+        "name": "Janet Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "48C57DD4-FE78-40F8-859A-65020F6B76D5"
+    },
+    {
+      "id": 663813,
+      "dateAdded": 1677872190460,
+      "jobSubmission": {
+        "id": 635412,
+        "jobOrder": {
+          "id": 143746,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677613568080,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59924,
+          "firstName": "Brett",
+          "lastName": "Robertson",
+          "owner": {
+            "id": 675,
+            "firstName": "Raul",
+            "lastName": "Mota",
+            "name": "Raul Mota"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 675,
+        "_subtype": "CorporateUser",
+        "firstName": "Raul",
+        "lastName": "Mota",
+        "name": "Raul Mota"
+      },
+      "status": "Internal Submission",
+      "transactionID": "4AB7FDF6-F5D1-4887-BEB0-9C3493BB97D4"
+    },
+    {
+      "id": 663696,
+      "dateAdded": 1677867975910,
+      "jobSubmission": {
+        "id": 635142,
+        "jobOrder": {
+          "id": 144326,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677859582407,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 59590,
+          "firstName": "Brittany",
+          "lastName": "Ferlauto",
+          "owner": {
+            "id": 51989,
+            "firstName": "Drew",
+            "lastName": "Gold",
+            "name": "Drew Gold"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 51989,
+        "_subtype": "CorporateUser",
+        "firstName": "Drew",
+        "lastName": "Gold",
+        "name": "Drew Gold"
+      },
+      "status": "Internal Submission",
+      "transactionID": "373A0B8E-286B-4675-A8D8-70E566987E86"
+    },
+    {
+      "id": 663679,
+      "dateAdded": 1677866973887,
+      "jobSubmission": {
+        "id": 635283,
+        "jobOrder": {
+          "id": 142591,
+          "title": "RN - Surgery - OR",
+          "dateAdded": 1677013631740,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 59749,
+          "firstName": "Tyler",
+          "lastName": "Ashley",
+          "owner": {
+            "id": 9742,
+            "firstName": "Megan",
+            "lastName": "Hertz",
+            "name": "Megan Hertz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8822,
+        "_subtype": "CorporateUser",
+        "firstName": "Ryan",
+        "lastName": "Bickett-Hickok",
+        "name": "Ryan Bickett-Hickok"
+      },
+      "status": "Internal Submission",
+      "transactionID": "CD9E7412-9CDC-46BD-8822-6C86BAADED2C"
+    },
+    {
+      "id": 663678,
+      "dateAdded": 1677866884247,
+      "jobSubmission": {
+        "id": 635282,
+        "jobOrder": {
+          "id": 137855,
+          "title": "RN - Surgery - OR",
+          "dateAdded": 1675126940783,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 59749,
+          "firstName": "Tyler",
+          "lastName": "Ashley",
+          "owner": {
+            "id": 9742,
+            "firstName": "Megan",
+            "lastName": "Hertz",
+            "name": "Megan Hertz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8822,
+        "_subtype": "CorporateUser",
+        "firstName": "Ryan",
+        "lastName": "Bickett-Hickok",
+        "name": "Ryan Bickett-Hickok"
+      },
+      "status": "Internal Submission",
+      "transactionID": "A5D1619C-9308-4765-B41F-37F398010501"
+    },
+    {
+      "id": 663673,
+      "dateAdded": 1677866110163,
+      "jobSubmission": {
+        "id": 635280,
+        "jobOrder": {
+          "id": 133032,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1673025402217,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 59643,
+          "firstName": "Elroy",
+          "lastName": "Richards",
+          "owner": {
+            "id": 57726,
+            "firstName": "Miriah Jo",
+            "lastName": "Reiss",
+            "name": "Miriah Jo Reiss"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 57726,
+        "_subtype": "CorporateUser",
+        "firstName": "Miriah Jo",
+        "lastName": "Reiss",
+        "name": "Miriah Jo Reiss"
+      },
+      "status": "Internal Submission",
+      "transactionID": "C51832ED-0110-4396-B215-A43DCAFCD820"
+    },
+    {
+      "id": 663665,
+      "dateAdded": 1677865683137,
+      "jobSubmission": {
+        "id": 635243,
+        "jobOrder": {
+          "id": 143745,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677613566823,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59940,
+          "firstName": "Zoey",
+          "lastName": "Johnson",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "E8B2C8ED-E3C9-44CA-99CD-16DF60829BEF"
+    },
+    {
+      "id": 663622,
+      "dateAdded": 1677865282387,
+      "jobSubmission": {
+        "id": 635143,
+        "jobOrder": {
+          "id": 144326,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677859582407,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 59643,
+          "firstName": "Elroy",
+          "lastName": "Richards",
+          "owner": {
+            "id": 57726,
+            "firstName": "Miriah Jo",
+            "lastName": "Reiss",
+            "name": "Miriah Jo Reiss"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 57726,
+        "_subtype": "CorporateUser",
+        "firstName": "Miriah Jo",
+        "lastName": "Reiss",
+        "name": "Miriah Jo Reiss"
+      },
+      "status": "Internal Submission",
+      "transactionID": "068BDD11-E6C6-4EEE-9A11-1CFA9EDE5BF4"
+    },
+    {
+      "id": 663613,
+      "dateAdded": 1677864204200,
+      "jobSubmission": {
+        "id": 635232,
+        "jobOrder": {
+          "id": 140925,
+          "title": "RN - Med-Surg",
+          "dateAdded": 1676050163347,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 15510,
+          "firstName": "Mai",
+          "lastName": "Thao",
+          "owner": {
+            "id": 51799,
+            "firstName": "Bailey",
+            "lastName": "Humes",
+            "name": "Bailey Humes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 51799,
+        "_subtype": "CorporateUser",
+        "firstName": "Bailey",
+        "lastName": "Humes",
+        "name": "Bailey Humes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "75F0226B-99F6-4277-8334-4D177086AE3C"
+    },
+    {
+      "id": 663560,
+      "dateAdded": 1677863714963,
+      "jobSubmission": {
+        "id": 635181,
+        "jobOrder": {
+          "id": 140935,
+          "title": "RN - Telemetry",
+          "dateAdded": 1676050173870,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 15510,
+          "firstName": "Mai",
+          "lastName": "Thao",
+          "owner": {
+            "id": 51799,
+            "firstName": "Bailey",
+            "lastName": "Humes",
+            "name": "Bailey Humes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 51799,
+        "_subtype": "CorporateUser",
+        "firstName": "Bailey",
+        "lastName": "Humes",
+        "name": "Bailey Humes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "D43C6626-26BA-4C48-B444-77B469F97CCE"
+    },
+    {
+      "id": 663559,
+      "dateAdded": 1677863257647,
+      "jobSubmission": {
+        "id": 635180,
+        "jobOrder": {
+          "id": 144033,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677714369870,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 59746,
+          "firstName": "Lydia",
+          "lastName": "Alvarado",
+          "owner": {
+            "id": 47943,
+            "firstName": "Nitalya",
+            "lastName": "Young",
+            "name": "Nitalya Young"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "5BC7E8BF-2AA5-4398-AC4A-D69DF6F15619"
+    },
+    {
+      "id": 663551,
+      "dateAdded": 1677861777283,
+      "jobSubmission": {
+        "id": 635177,
+        "jobOrder": {
+          "id": 143598,
+          "title": "RN - Progressive Care Unit",
+          "dateAdded": 1677539156423,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 25301,
+          "firstName": "Ellen",
+          "lastName": "Scheiring",
+          "owner": {
+            "id": 8822,
+            "firstName": "Ryan",
+            "lastName": "Bickett-Hickok",
+            "name": "Ryan Bickett-Hickok"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "5DD99EFF-2E6C-4B13-A3E7-7D8DD62F6725"
+    },
+    {
+      "id": 663549,
+      "dateAdded": 1677861632127,
+      "jobSubmission": {
+        "id": 635175,
+        "jobOrder": {
+          "id": 144264,
+          "title": "RN - Labor & Delivery",
+          "dateAdded": 1677807735967,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 59799,
+          "firstName": "Deborah",
+          "lastName": "Downes",
+          "owner": {
+            "id": 57726,
+            "firstName": "Miriah Jo",
+            "lastName": "Reiss",
+            "name": "Miriah Jo Reiss"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 57726,
+        "_subtype": "CorporateUser",
+        "firstName": "Miriah Jo",
+        "lastName": "Reiss",
+        "name": "Miriah Jo Reiss"
+      },
+      "status": "Internal Submission",
+      "transactionID": "3BCB841D-4E93-4C3C-8454-81B06177B056"
+    },
+    {
+      "id": 663330,
+      "dateAdded": 1677805945857,
+      "jobSubmission": {
+        "id": 628422,
+        "jobOrder": {
+          "id": 143610,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677544570287,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 28001,
+          "firstName": "Carrie",
+          "lastName": "Cocan",
+          "owner": {
+            "id": 9742,
+            "firstName": "Megan",
+            "lastName": "Hertz",
+            "name": "Megan Hertz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8822,
+        "_subtype": "CorporateUser",
+        "firstName": "Ryan",
+        "lastName": "Bickett-Hickok",
+        "name": "Ryan Bickett-Hickok"
+      },
+      "status": "Internal Submission",
+      "transactionID": "B2500788-CCCD-4E01-8F61-32A8004E3A1D"
+    },
+    {
+      "id": 663329,
+      "dateAdded": 1677805390787,
+      "jobSubmission": {
+        "id": 634963,
+        "jobOrder": {
+          "id": 143854,
+          "title": "CST - Surgery - CVOR",
+          "dateAdded": 1677682273257,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 57116,
+          "firstName": "Kurt",
+          "lastName": "Cooper",
+          "owner": {
+            "id": 15051,
+            "firstName": "Janet",
+            "lastName": "Jauregui",
+            "name": "Janet Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 15051,
+        "_subtype": "CorporateUser",
+        "firstName": "Janet",
+        "lastName": "Jauregui",
+        "name": "Janet Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "69F62F48-4761-42D8-A941-A064C9A60C9E"
+    },
+    {
+      "id": 663328,
+      "dateAdded": 1677805185393,
+      "jobSubmission": {
+        "id": 634962,
+        "jobOrder": {
+          "id": 141833,
+          "title": "CST - Surgery - OR",
+          "dateAdded": 1676518207647,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 57116,
+          "firstName": "Kurt",
+          "lastName": "Cooper",
+          "owner": {
+            "id": 15051,
+            "firstName": "Janet",
+            "lastName": "Jauregui",
+            "name": "Janet Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 15051,
+        "_subtype": "CorporateUser",
+        "firstName": "Janet",
+        "lastName": "Jauregui",
+        "name": "Janet Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "FAC9344E-515F-404B-AD3D-97E8DEA672AD"
+    },
+    {
+      "id": 663327,
+      "dateAdded": 1677805003373,
+      "jobSubmission": {
+        "id": 634961,
+        "jobOrder": {
+          "id": 133755,
+          "title": "CST - Surgery - CVOR",
+          "dateAdded": 1673332588647,
+          "owner": {
+            "id": 54548,
+            "firstName": "Kayla",
+            "lastName": "Starbuck",
+            "name": "Kayla Starbuck"
+          }
+        },
+        "candidate": {
+          "id": 57116,
+          "firstName": "Kurt",
+          "lastName": "Cooper",
+          "owner": {
+            "id": 15051,
+            "firstName": "Janet",
+            "lastName": "Jauregui",
+            "name": "Janet Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 15051,
+        "_subtype": "CorporateUser",
+        "firstName": "Janet",
+        "lastName": "Jauregui",
+        "name": "Janet Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "1A03BBBB-46DD-4589-B735-9C1FBF878724"
+    },
+    {
+      "id": 663326,
+      "dateAdded": 1677804461750,
+      "jobSubmission": {
+        "id": 634960,
+        "jobOrder": {
+          "id": 100903,
+          "title": "CST - Surgery - CVOR",
+          "dateAdded": 1662064697910,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 57116,
+          "firstName": "Kurt",
+          "lastName": "Cooper",
+          "owner": {
+            "id": 15051,
+            "firstName": "Janet",
+            "lastName": "Jauregui",
+            "name": "Janet Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 15051,
+        "_subtype": "CorporateUser",
+        "firstName": "Janet",
+        "lastName": "Jauregui",
+        "name": "Janet Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "1D78E172-3A6F-4349-AB5C-0DEF661AA500"
+    },
+    {
+      "id": 663293,
+      "dateAdded": 1677802086847,
+      "jobSubmission": {
+        "id": 634930,
+        "jobOrder": {
+          "id": 144211,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677794893047,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 56673,
+          "firstName": "Austin",
+          "lastName": "Bowman",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "3AF87FAB-09C1-4F66-A1C3-36D29616DDBD"
+    },
+    {
+      "id": 663260,
+      "dateAdded": 1677799872200,
+      "jobSubmission": {
+        "id": 634889,
+        "jobOrder": {
+          "id": 144235,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677798290997,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 59824,
+          "firstName": "Christopher",
+          "lastName": "Davis",
+          "owner": {
+            "id": 20947,
+            "firstName": "Paul",
+            "lastName": "Ulrich",
+            "name": "Paul Ulrich"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 20947,
+        "_subtype": "CorporateUser",
+        "firstName": "Paul",
+        "lastName": "Ulrich",
+        "name": "Paul Ulrich"
+      },
+      "status": "Internal Submission",
+      "transactionID": "477DD9DB-F101-477F-87AA-69BFD9EFF897"
+    },
+    {
+      "id": 662504,
+      "dateAdded": 1677790051337,
+      "jobSubmission": {
+        "id": 634166,
+        "jobOrder": {
+          "id": 143747,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677613569350,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 15693,
+          "firstName": "Troy",
+          "lastName": "King",
+          "owner": {
+            "id": 9742,
+            "firstName": "Megan",
+            "lastName": "Hertz",
+            "name": "Megan Hertz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8822,
+        "_subtype": "CorporateUser",
+        "firstName": "Ryan",
+        "lastName": "Bickett-Hickok",
+        "name": "Ryan Bickett-Hickok"
+      },
+      "status": "Internal Submission",
+      "transactionID": "10AF5147-E912-4382-A03D-AFFE6226D24D"
+    },
+    {
+      "id": 662496,
+      "dateAdded": 1677789918833,
+      "jobSubmission": {
+        "id": 634158,
+        "jobOrder": {
+          "id": 115817,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1666907473067,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 54299,
+          "firstName": "Alexis",
+          "lastName": "Perona",
+          "owner": {
+            "id": 15051,
+            "firstName": "Janet",
+            "lastName": "Jauregui",
+            "name": "Janet Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 15051,
+        "_subtype": "CorporateUser",
+        "firstName": "Janet",
+        "lastName": "Jauregui",
+        "name": "Janet Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "E8E9E039-608F-4ECA-9F46-3365B24AF803"
+    },
+    {
+      "id": 662446,
+      "dateAdded": 1677789592710,
+      "jobSubmission": {
+        "id": 634108,
+        "jobOrder": {
+          "id": 143778,
+          "title": "RN - Surgery - CVOR",
+          "dateAdded": 1677621441467,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 44588,
+          "firstName": "Jessica",
+          "lastName": "Sorah",
+          "owner": {
+            "id": 41934,
+            "firstName": "Thalia",
+            "lastName": "Jauregui",
+            "name": "Thalia Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 41934,
+        "_subtype": "CorporateUser",
+        "firstName": "Thalia",
+        "lastName": "Jauregui",
+        "name": "Thalia Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "47C55F47-75B6-414A-A064-FF4CEC4ED21B"
+    },
+    {
+      "id": 662439,
+      "dateAdded": 1677789315190,
+      "jobSubmission": {
+        "id": 634101,
+        "jobOrder": {
+          "id": 126440,
+          "title": "RN - Med-Surg",
+          "dateAdded": 1670614873563,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 6453,
+          "firstName": "Chiquita",
+          "lastName": "Mintze",
+          "owner": {
+            "id": 20947,
+            "firstName": "Paul",
+            "lastName": "Ulrich",
+            "name": "Paul Ulrich"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 20947,
+        "_subtype": "CorporateUser",
+        "firstName": "Paul",
+        "lastName": "Ulrich",
+        "name": "Paul Ulrich"
+      },
+      "status": "Internal Submission",
+      "transactionID": "AF89C7A6-6F2B-44E9-A4BD-C24CF67FDA72"
+    },
+    {
+      "id": 662438,
+      "dateAdded": 1677789216787,
+      "jobSubmission": {
+        "id": 634100,
+        "jobOrder": {
+          "id": 144050,
+          "title": "RN - Critical Care - CVICU",
+          "dateAdded": 1677756369257,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 6453,
+          "firstName": "Chiquita",
+          "lastName": "Mintze",
+          "owner": {
+            "id": 20947,
+            "firstName": "Paul",
+            "lastName": "Ulrich",
+            "name": "Paul Ulrich"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 20947,
+        "_subtype": "CorporateUser",
+        "firstName": "Paul",
+        "lastName": "Ulrich",
+        "name": "Paul Ulrich"
+      },
+      "status": "Internal Submission",
+      "transactionID": "F6B082FB-4FB4-4AA4-80AF-7D187A9C2FCD"
+    },
+    {
+      "id": 662190,
+      "dateAdded": 1677788382150,
+      "jobSubmission": {
+        "id": 633854,
+        "jobOrder": {
+          "id": 143907,
+          "title": "RN - Telemetry",
+          "dateAdded": 1677687791693,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 12860,
+          "firstName": "Rachel",
+          "lastName": "Rosen",
+          "owner": {
+            "id": 57723,
+            "firstName": "Sandy",
+            "lastName": "Wong",
+            "name": "Sandy Wong"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 57723,
+        "_subtype": "CorporateUser",
+        "firstName": "Sandy",
+        "lastName": "Wong",
+        "name": "Sandy Wong"
+      },
+      "status": "Internal Submission",
+      "transactionID": "7FA1CCC2-FD35-481E-819C-DA0A8D02C3E9"
+    },
+    {
+      "id": 662188,
+      "dateAdded": 1677788351847,
+      "jobSubmission": {
+        "id": 632892,
+        "jobOrder": {
+          "id": 144055,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677767473447,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 51473,
+          "firstName": "Jessica",
+          "lastName": "Block",
+          "owner": {
+            "id": 9742,
+            "firstName": "Megan",
+            "lastName": "Hertz",
+            "name": "Megan Hertz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "DE1C5CE3-56AF-477F-A78A-9D17B03B9EC2"
+    },
+    {
+      "id": 662187,
+      "dateAdded": 1677788276937,
+      "jobSubmission": {
+        "id": 632816,
+        "jobOrder": {
+          "id": 143907,
+          "title": "RN - Telemetry",
+          "dateAdded": 1677687791693,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 44205,
+          "firstName": "Gabrielle",
+          "lastName": "Meeks",
+          "owner": {
+            "id": 15051,
+            "firstName": "Janet",
+            "lastName": "Jauregui",
+            "name": "Janet Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 15051,
+        "_subtype": "CorporateUser",
+        "firstName": "Janet",
+        "lastName": "Jauregui",
+        "name": "Janet Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "4721127E-32AA-4F49-817A-0DDD87B4C186"
+    },
+    {
+      "id": 662186,
+      "dateAdded": 1677787756437,
+      "jobSubmission": {
+        "id": 633853,
+        "jobOrder": {
+          "id": 143747,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677613569350,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 40780,
+          "firstName": "Cavonte",
+          "lastName": "Jones",
+          "owner": {
+            "id": 57726,
+            "firstName": "Miriah Jo",
+            "lastName": "Reiss",
+            "name": "Miriah Jo Reiss"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 57726,
+        "_subtype": "CorporateUser",
+        "firstName": "Miriah Jo",
+        "lastName": "Reiss",
+        "name": "Miriah Jo Reiss"
+      },
+      "status": "Internal Submission",
+      "transactionID": "5F4008F5-DCDF-4B34-B133-0FC567415A79"
+    },
+    {
+      "id": 661965,
+      "dateAdded": 1677786507830,
+      "jobSubmission": {
+        "id": 565723,
+        "jobOrder": {
+          "id": 135361,
+          "title": "CST - Surgery - OR",
+          "dateAdded": 1673975479103,
+          "owner": {
+            "id": 54548,
+            "firstName": "Kayla",
+            "lastName": "Starbuck",
+            "name": "Kayla Starbuck"
+          }
+        },
+        "candidate": {
+          "id": 58549,
+          "firstName": "Christina",
+          "lastName": "Sorteberg",
+          "owner": {
+            "id": 51989,
+            "firstName": "Drew",
+            "lastName": "Gold",
+            "name": "Drew Gold"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 307,
+        "_subtype": "CorporateUser",
+        "firstName": "Jason",
+        "lastName": "Barnes",
+        "name": "Jason Barnes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "B27CF546-E076-4DCB-8C54-F49B42C812AF"
+    },
+    {
+      "id": 661964,
+      "dateAdded": 1677786469287,
+      "jobSubmission": {
+        "id": 577953,
+        "jobOrder": {
+          "id": 137979,
+          "title": "CST - Surgery - OR",
+          "dateAdded": 1675194421160,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 58549,
+          "firstName": "Christina",
+          "lastName": "Sorteberg",
+          "owner": {
+            "id": 51989,
+            "firstName": "Drew",
+            "lastName": "Gold",
+            "name": "Drew Gold"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 307,
+        "_subtype": "CorporateUser",
+        "firstName": "Jason",
+        "lastName": "Barnes",
+        "name": "Jason Barnes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "86C9396D-2B06-468A-9068-03838E8455E4"
+    },
+    {
+      "id": 661961,
+      "dateAdded": 1677785546457,
+      "jobSubmission": {
+        "id": 633632,
+        "jobOrder": {
+          "id": 143778,
+          "title": "RN - Surgery - CVOR",
+          "dateAdded": 1677621441467,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 59936,
+          "firstName": "Kimberly",
+          "lastName": "Buchanan",
+          "owner": {
+            "id": 10665,
+            "firstName": "Marco",
+            "lastName": "Ferrer-Ruiz",
+            "name": "Marco Ferrer-Ruiz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 10665,
+        "_subtype": "CorporateUser",
+        "firstName": "Marco",
+        "lastName": "Ferrer-Ruiz",
+        "name": "Marco Ferrer-Ruiz"
+      },
+      "status": "Internal Submission",
+      "transactionID": "1E7F70EB-E2DD-4E02-8A4F-A51BD076CEBE"
+    },
+    {
+      "id": 661573,
+      "dateAdded": 1677780875493,
+      "jobSubmission": {
+        "id": 629052,
+        "jobOrder": {
+          "id": 143744,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677613565580,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 15693,
+          "firstName": "Troy",
+          "lastName": "King",
+          "owner": {
+            "id": 9742,
+            "firstName": "Megan",
+            "lastName": "Hertz",
+            "name": "Megan Hertz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 9742,
+        "_subtype": "CorporateUser",
+        "firstName": "Megan",
+        "lastName": "Hertz",
+        "name": "Megan Hertz"
+      },
+      "status": "Internal Submission",
+      "transactionID": "B5B244BC-B549-43A1-8775-A22455D15CCF"
+    },
+    {
+      "id": 661566,
+      "dateAdded": 1677779871447,
+      "jobSubmission": {
+        "id": 629722,
+        "jobOrder": {
+          "id": 142884,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677114070613,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 59396,
+          "firstName": "Shonnee S.",
+          "lastName": "Pryor",
+          "owner": {
+            "id": 57723,
+            "firstName": "Sandy",
+            "lastName": "Wong",
+            "name": "Sandy Wong"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "3C5D81AB-EF16-4AE8-B982-4762BC8FD975"
+    },
+    {
+      "id": 661547,
+      "dateAdded": 1677779142903,
+      "jobSubmission": {
+        "id": 633236,
+        "jobOrder": {
+          "id": 144019,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677711551417,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59396,
+          "firstName": "Shonnee S.",
+          "lastName": "Pryor",
+          "owner": {
+            "id": 57723,
+            "firstName": "Sandy",
+            "lastName": "Wong",
+            "name": "Sandy Wong"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "1FF87E13-883C-4D18-A84A-97A096709C59"
+    },
+    {
+      "id": 661546,
+      "dateAdded": 1677779136707,
+      "jobSubmission": {
+        "id": 633235,
+        "jobOrder": {
+          "id": 143745,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677613566823,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 28001,
+          "firstName": "Carrie",
+          "lastName": "Cocan",
+          "owner": {
+            "id": 9742,
+            "firstName": "Megan",
+            "lastName": "Hertz",
+            "name": "Megan Hertz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 9742,
+        "_subtype": "CorporateUser",
+        "firstName": "Megan",
+        "lastName": "Hertz",
+        "name": "Megan Hertz"
+      },
+      "status": "Internal Submission",
+      "transactionID": "0FDE4351-2B02-4535-B80E-52E46E65A9D4"
+    },
+    {
+      "id": 661348,
+      "dateAdded": 1677778280387,
+      "jobSubmission": {
+        "id": 632740,
+        "jobOrder": {
+          "id": 144044,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677728120370,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 56655,
+          "firstName": "Jordan",
+          "lastName": "Meleski",
+          "owner": {
+            "id": 41934,
+            "firstName": "Thalia",
+            "lastName": "Jauregui",
+            "name": "Thalia Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "56DAF32F-9EC1-4672-A3DB-4FABB0F0ADD6"
+    },
+    {
+      "id": 661290,
+      "dateAdded": 1677775417487,
+      "jobSubmission": {
+        "id": 631144,
+        "jobOrder": {
+          "id": 143906,
+          "title": "RN - Telemetry",
+          "dateAdded": 1677687789000,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 46709,
+          "firstName": "Daniela",
+          "lastName": "Birca",
+          "owner": {
+            "id": 26880,
+            "firstName": "Juan",
+            "lastName": "Nava",
+            "name": "Juan Nava"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 26880,
+        "_subtype": "CorporateUser",
+        "firstName": "Juan",
+        "lastName": "Nava",
+        "name": "Juan Nava"
+      },
+      "status": "Internal Submission",
+      "transactionID": "28DD0D52-B286-454D-BAEC-9F73401600CD"
+    },
+    {
+      "id": 661283,
+      "dateAdded": 1677775080967,
+      "jobSubmission": {
+        "id": 632988,
+        "jobOrder": {
+          "id": 144085,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677774603257,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 56927,
+          "firstName": "Karolina",
+          "lastName": "Balciunaite",
+          "owner": {
+            "id": 51800,
+            "firstName": "Carlos",
+            "lastName": "Jauregui",
+            "name": "Carlos Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 51800,
+        "_subtype": "CorporateUser",
+        "firstName": "Carlos",
+        "lastName": "Jauregui",
+        "name": "Carlos Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "2ABB31B1-D743-4574-AA33-2F44FE5A8C11"
+    },
+    {
+      "id": 661246,
+      "dateAdded": 1677773427780,
+      "jobSubmission": {
+        "id": 632863,
+        "jobOrder": {
+          "id": 143996,
+          "title": "RN - Surgery - CVOR",
+          "dateAdded": 1677704907677,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 59969,
+          "firstName": "Marci",
+          "lastName": "Holm",
+          "owner": {
+            "id": 57726,
+            "firstName": "Miriah Jo",
+            "lastName": "Reiss",
+            "name": "Miriah Jo Reiss"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 307,
+        "_subtype": "CorporateUser",
+        "firstName": "Jason",
+        "lastName": "Barnes",
+        "name": "Jason Barnes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "3129AE92-0708-40B5-B985-CF1F46B3FE3A"
+    },
+    {
+      "id": 661136,
+      "dateAdded": 1677768056743,
+      "jobSubmission": {
+        "id": 632858,
+        "jobOrder": {
+          "id": 107405,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1664370266353,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 56673,
+          "firstName": "Austin",
+          "lastName": "Bowman",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "5B0862B3-5669-4C36-A298-57E656E09724"
+    },
+    {
+      "id": 661135,
+      "dateAdded": 1677767818357,
+      "jobSubmission": {
+        "id": 629038,
+        "jobOrder": {
+          "id": 143730,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677608943597,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 56673,
+          "firstName": "Austin",
+          "lastName": "Bowman",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "9FD3B4DA-D0DE-47E6-810E-E0C3EE287567"
+    },
+    {
+      "id": 660808,
+      "dateAdded": 1677723563983,
+      "jobSubmission": {
+        "id": 632531,
+        "jobOrder": {
+          "id": 143942,
+          "title": "RN - Med-Surg - Rehab",
+          "dateAdded": 1677695000727,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 27151,
+          "firstName": "Yuliana",
+          "lastName": "Orozco",
+          "owner": {
+            "id": 15051,
+            "firstName": "Janet",
+            "lastName": "Jauregui",
+            "name": "Janet Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 15051,
+        "_subtype": "CorporateUser",
+        "firstName": "Janet",
+        "lastName": "Jauregui",
+        "name": "Janet Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "4ECD73AB-6DEB-4F12-B496-7147E84CC4E7"
+    },
+    {
+      "id": 660775,
+      "dateAdded": 1677717830690,
+      "jobSubmission": {
+        "id": 631149,
+        "jobOrder": {
+          "id": 143906,
+          "title": "RN - Telemetry",
+          "dateAdded": 1677687789000,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 59594,
+          "firstName": "Joyce ",
+          "lastName": "Ramirez Castro",
+          "owner": {
+            "id": 57726,
+            "firstName": "Miriah Jo",
+            "lastName": "Reiss",
+            "name": "Miriah Jo Reiss"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 57726,
+        "_subtype": "CorporateUser",
+        "firstName": "Miriah Jo",
+        "lastName": "Reiss",
+        "name": "Miriah Jo Reiss"
+      },
+      "status": "Internal Submission",
+      "transactionID": "6F69DA6B-384C-47F8-A687-99B1E59B9E23"
+    },
+    {
+      "id": 660774,
+      "dateAdded": 1677717693677,
+      "jobSubmission": {
+        "id": 631147,
+        "jobOrder": {
+          "id": 143906,
+          "title": "RN - Telemetry",
+          "dateAdded": 1677687789000,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 59599,
+          "firstName": "Jasmine",
+          "lastName": "Zhu",
+          "owner": {
+            "id": 57726,
+            "firstName": "Miriah Jo",
+            "lastName": "Reiss",
+            "name": "Miriah Jo Reiss"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 57726,
+        "_subtype": "CorporateUser",
+        "firstName": "Miriah Jo",
+        "lastName": "Reiss",
+        "name": "Miriah Jo Reiss"
+      },
+      "status": "Internal Submission",
+      "transactionID": "A02D9939-1B2B-4906-9F93-14829A2D81B6"
+    },
+    {
+      "id": 660767,
+      "dateAdded": 1677716452757,
+      "jobSubmission": {
+        "id": 628617,
+        "jobOrder": {
+          "id": 143623,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677591016283,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 59808,
+          "firstName": "Christy",
+          "lastName": "Mottshaw",
+          "owner": {
+            "id": 26880,
+            "firstName": "Juan",
+            "lastName": "Nava",
+            "name": "Juan Nava"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "5F9F58F9-32BA-4CE1-AD7F-B5161C2F4613"
+    },
+    {
+      "id": 660765,
+      "dateAdded": 1677716122490,
+      "jobSubmission": {
+        "id": 632499,
+        "jobOrder": {
+          "id": 142712,
+          "title": "RN - Med-Surg - Ortho",
+          "dateAdded": 1677085835540,
+          "owner": {
+            "id": 54548,
+            "firstName": "Kayla",
+            "lastName": "Starbuck",
+            "name": "Kayla Starbuck"
+          }
+        },
+        "candidate": {
+          "id": 56673,
+          "firstName": "Austin",
+          "lastName": "Bowman",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "EC0CB369-1B85-4343-B151-C970CCBF5D04"
+    },
+    {
+      "id": 660764,
+      "dateAdded": 1677716026960,
+      "jobSubmission": {
+        "id": 632498,
+        "jobOrder": {
+          "id": 138922,
+          "title": "RN - Med-Surg - Ortho",
+          "dateAdded": 1675717675507,
+          "owner": {
+            "id": 54548,
+            "firstName": "Kayla",
+            "lastName": "Starbuck",
+            "name": "Kayla Starbuck"
+          }
+        },
+        "candidate": {
+          "id": 56673,
+          "firstName": "Austin",
+          "lastName": "Bowman",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "63749BDC-E309-419D-ACCF-CC1D39ACAF24"
+    },
+    {
+      "id": 660722,
+      "dateAdded": 1677713829473,
+      "jobSubmission": {
+        "id": 632467,
+        "jobOrder": {
+          "id": 142952,
+          "title": "RN - Med-Surg - Float",
+          "dateAdded": 1677172101273,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 54346,
+          "firstName": "Christiana",
+          "lastName": "Nyquest",
+          "owner": {
+            "id": 51799,
+            "firstName": "Bailey",
+            "lastName": "Humes",
+            "name": "Bailey Humes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 51799,
+        "_subtype": "CorporateUser",
+        "firstName": "Bailey",
+        "lastName": "Humes",
+        "name": "Bailey Humes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "F454ECAC-3F3D-4895-9EC0-1EFC579C5811"
+    },
+    {
+      "id": 660358,
+      "dateAdded": 1677710999807,
+      "jobSubmission": {
+        "id": 632107,
+        "jobOrder": {
+          "id": 143996,
+          "title": "RN - Surgery - CVOR",
+          "dateAdded": 1677704907677,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 44588,
+          "firstName": "Jessica",
+          "lastName": "Sorah",
+          "owner": {
+            "id": 41934,
+            "firstName": "Thalia",
+            "lastName": "Jauregui",
+            "name": "Thalia Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 41934,
+        "_subtype": "CorporateUser",
+        "firstName": "Thalia",
+        "lastName": "Jauregui",
+        "name": "Thalia Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "AFC4837E-7B04-40DC-9FB4-9ED5DCC80C1E"
+    },
+    {
+      "id": 660191,
+      "dateAdded": 1677705540430,
+      "jobSubmission": {
+        "id": 632011,
+        "jobOrder": {
+          "id": 143050,
+          "title": "RN - Labor & Delivery",
+          "dateAdded": 1677182083740,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59799,
+          "firstName": "Deborah",
+          "lastName": "Downes",
+          "owner": {
+            "id": 57726,
+            "firstName": "Miriah Jo",
+            "lastName": "Reiss",
+            "name": "Miriah Jo Reiss"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 57726,
+        "_subtype": "CorporateUser",
+        "firstName": "Miriah Jo",
+        "lastName": "Reiss",
+        "name": "Miriah Jo Reiss"
+      },
+      "status": "Internal Submission",
+      "transactionID": "A0535283-679B-4F9B-897E-C01EDB67BD47"
+    },
+    {
+      "id": 660144,
+      "dateAdded": 1677703813513,
+      "jobSubmission": {
+        "id": 631968,
+        "jobOrder": {
+          "id": 143939,
+          "title": "RN - Pediatrics - NICU",
+          "dateAdded": 1677694451653,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 49770,
+          "firstName": "Angela",
+          "lastName": "Roll",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "63FA7DD9-1390-49A0-8D22-4C8D2EC12831"
+    },
+    {
+      "id": 660139,
+      "dateAdded": 1677702548187,
+      "jobSubmission": {
+        "id": 602749,
+        "jobOrder": {
+          "id": 134066,
+          "title": "RN - Interventional Radiology",
+          "dateAdded": 1673396544473,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 59375,
+          "firstName": "Dorothea",
+          "lastName": "Kyle",
+          "owner": {
+            "id": 51799,
+            "firstName": "Bailey",
+            "lastName": "Humes",
+            "name": "Bailey Humes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 51799,
+        "_subtype": "CorporateUser",
+        "firstName": "Bailey",
+        "lastName": "Humes",
+        "name": "Bailey Humes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "AA4F7869-80A6-4F61-8AFD-FAC8782A0AA7"
+    },
+    {
+      "id": 659896,
+      "dateAdded": 1677700779447,
+      "jobSubmission": {
+        "id": 631722,
+        "jobOrder": {
+          "id": 143961,
+          "title": "RN - Surgery - OR",
+          "dateAdded": 1677700748033,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 43725,
+          "firstName": "Tiffany",
+          "lastName": "Wilson",
+          "owner": {
+            "id": 20947,
+            "firstName": "Paul",
+            "lastName": "Ulrich",
+            "name": "Paul Ulrich"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47027,
+        "_subtype": "CorporateUser",
+        "firstName": "Katelyn",
+        "lastName": "Fuller",
+        "name": "Katelyn Fuller"
+      },
+      "status": "Internal Submission",
+      "transactionID": "80AA6E0F-8EF3-407F-A015-717BA47A0A1D"
+    },
+    {
+      "id": 659860,
+      "dateAdded": 1677698892693,
+      "jobSubmission": {
+        "id": 631692,
+        "jobOrder": {
+          "id": 143907,
+          "title": "RN - Telemetry",
+          "dateAdded": 1677687791693,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 51629,
+          "firstName": "Frances ",
+          "lastName": "Ortiz",
+          "owner": {
+            "id": 26880,
+            "firstName": "Juan",
+            "lastName": "Nava",
+            "name": "Juan Nava"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 26880,
+        "_subtype": "CorporateUser",
+        "firstName": "Juan",
+        "lastName": "Nava",
+        "name": "Juan Nava"
+      },
+      "status": "Internal Submission",
+      "transactionID": "AA5155DC-66C4-474A-B367-B529E4CCD0FC"
+    },
+    {
+      "id": 659859,
+      "dateAdded": 1677698840893,
+      "jobSubmission": {
+        "id": 631691,
+        "jobOrder": {
+          "id": 143341,
+          "title": "RN - Labor & Delivery",
+          "dateAdded": 1677426076853,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59799,
+          "firstName": "Deborah",
+          "lastName": "Downes",
+          "owner": {
+            "id": 57726,
+            "firstName": "Miriah Jo",
+            "lastName": "Reiss",
+            "name": "Miriah Jo Reiss"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 57726,
+        "_subtype": "CorporateUser",
+        "firstName": "Miriah Jo",
+        "lastName": "Reiss",
+        "name": "Miriah Jo Reiss"
+      },
+      "status": "Internal Submission",
+      "transactionID": "3FF67793-1A6B-40AC-A21F-934865AB6946"
+    },
+    {
+      "id": 659828,
+      "dateAdded": 1677697987897,
+      "jobSubmission": {
+        "id": 631664,
+        "jobOrder": {
+          "id": 143907,
+          "title": "RN - Telemetry",
+          "dateAdded": 1677687791693,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 43019,
+          "firstName": "Washington ",
+          "lastName": "Villacres",
+          "owner": {
+            "id": 26880,
+            "firstName": "Juan",
+            "lastName": "Nava",
+            "name": "Juan Nava"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 26880,
+        "_subtype": "CorporateUser",
+        "firstName": "Juan",
+        "lastName": "Nava",
+        "name": "Juan Nava"
+      },
+      "status": "Internal Submission",
+      "transactionID": "EACAC528-68F5-4999-A9C8-823117933DA3"
+    },
+    {
+      "id": 659827,
+      "dateAdded": 1677697920360,
+      "jobSubmission": {
+        "id": 631145,
+        "jobOrder": {
+          "id": 143906,
+          "title": "RN - Telemetry",
+          "dateAdded": 1677687789000,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 59748,
+          "firstName": "Sepideh",
+          "lastName": "Emad",
+          "owner": {
+            "id": 20947,
+            "firstName": "Paul",
+            "lastName": "Ulrich",
+            "name": "Paul Ulrich"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 20947,
+        "_subtype": "CorporateUser",
+        "firstName": "Paul",
+        "lastName": "Ulrich",
+        "name": "Paul Ulrich"
+      },
+      "status": "Internal Submission",
+      "transactionID": "BC0D2FCF-062D-42AF-91EC-8DEC9B3F1C41"
+    },
+    {
+      "id": 659824,
+      "dateAdded": 1677697220440,
+      "jobSubmission": {
+        "id": 631663,
+        "jobOrder": {
+          "id": 138084,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1675213835573,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 56848,
+          "firstName": "Steven",
+          "lastName": "Parrish",
+          "owner": {
+            "id": 10665,
+            "firstName": "Marco",
+            "lastName": "Ferrer-Ruiz",
+            "name": "Marco Ferrer-Ruiz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 10665,
+        "_subtype": "CorporateUser",
+        "firstName": "Marco",
+        "lastName": "Ferrer-Ruiz",
+        "name": "Marco Ferrer-Ruiz"
+      },
+      "status": "Internal Submission",
+      "transactionID": "869A030B-E6F3-4172-8304-9AAC1FA85E85"
+    },
+    {
+      "id": 659820,
+      "dateAdded": 1677696975197,
+      "jobSubmission": {
+        "id": 631661,
+        "jobOrder": {
+          "id": 143930,
+          "title": "RN - Labor & Delivery",
+          "dateAdded": 1677693500603,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 59799,
+          "firstName": "Deborah",
+          "lastName": "Downes",
+          "owner": {
+            "id": 57726,
+            "firstName": "Miriah Jo",
+            "lastName": "Reiss",
+            "name": "Miriah Jo Reiss"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 57726,
+        "_subtype": "CorporateUser",
+        "firstName": "Miriah Jo",
+        "lastName": "Reiss",
+        "name": "Miriah Jo Reiss"
+      },
+      "status": "Internal Submission",
+      "transactionID": "1C3F9FA8-F46E-414A-BA33-01B2DB874D4C"
+    },
+    {
+      "id": 659420,
+      "dateAdded": 1677694692497,
+      "jobSubmission": {
+        "id": 631264,
+        "jobOrder": {
+          "id": 143794,
+          "title": "RN - Labor & Delivery",
+          "dateAdded": 1677626536430,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59799,
+          "firstName": "Deborah",
+          "lastName": "Downes",
+          "owner": {
+            "id": 57726,
+            "firstName": "Miriah Jo",
+            "lastName": "Reiss",
+            "name": "Miriah Jo Reiss"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 57726,
+        "_subtype": "CorporateUser",
+        "firstName": "Miriah Jo",
+        "lastName": "Reiss",
+        "name": "Miriah Jo Reiss"
+      },
+      "status": "Internal Submission",
+      "transactionID": "CFE75712-04B9-4400-A25F-B11838FB6993"
+    },
+    {
+      "id": 659419,
+      "dateAdded": 1677694293960,
+      "jobSubmission": {
+        "id": 631263,
+        "jobOrder": {
+          "id": 143744,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677613565580,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59922,
+          "firstName": "Sanaz",
+          "lastName": "Hessamfar",
+          "owner": {
+            "id": 10665,
+            "firstName": "Marco",
+            "lastName": "Ferrer-Ruiz",
+            "name": "Marco Ferrer-Ruiz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 10665,
+        "_subtype": "CorporateUser",
+        "firstName": "Marco",
+        "lastName": "Ferrer-Ruiz",
+        "name": "Marco Ferrer-Ruiz"
+      },
+      "status": "Internal Submission",
+      "transactionID": "DF784C27-BCE9-4EA6-8F64-210156F09E07"
+    },
+    {
+      "id": 659337,
+      "dateAdded": 1677692243813,
+      "jobSubmission": {
+        "id": 631184,
+        "jobOrder": {
+          "id": 143906,
+          "title": "RN - Telemetry",
+          "dateAdded": 1677687789000,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 59824,
+          "firstName": "Christopher",
+          "lastName": "Davis",
+          "owner": {
+            "id": 20947,
+            "firstName": "Paul",
+            "lastName": "Ulrich",
+            "name": "Paul Ulrich"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 20947,
+        "_subtype": "CorporateUser",
+        "firstName": "Paul",
+        "lastName": "Ulrich",
+        "name": "Paul Ulrich"
+      },
+      "status": "Internal Submission",
+      "transactionID": "39C87466-22B3-44CE-9155-619DF5322323"
+    },
+    {
+      "id": 659308,
+      "dateAdded": 1677690530507,
+      "jobSubmission": {
+        "id": 631162,
+        "jobOrder": {
+          "id": 143907,
+          "title": "RN - Telemetry",
+          "dateAdded": 1677687791693,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 57905,
+          "firstName": "Nirva",
+          "lastName": "Roney",
+          "owner": {
+            "id": 15051,
+            "firstName": "Janet",
+            "lastName": "Jauregui",
+            "name": "Janet Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 15051,
+        "_subtype": "CorporateUser",
+        "firstName": "Janet",
+        "lastName": "Jauregui",
+        "name": "Janet Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "E4D238C9-6666-4E19-99C5-06150251BE67"
+    },
+    {
+      "id": 659302,
+      "dateAdded": 1677689551317,
+      "jobSubmission": {
+        "id": 631159,
+        "jobOrder": {
+          "id": 143745,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677613566823,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 56655,
+          "firstName": "Jordan",
+          "lastName": "Meleski",
+          "owner": {
+            "id": 41934,
+            "firstName": "Thalia",
+            "lastName": "Jauregui",
+            "name": "Thalia Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "6FB62FA0-D31E-4E16-8309-DA3AA2EC58F0"
+    },
+    {
+      "id": 659295,
+      "dateAdded": 1677689115757,
+      "jobSubmission": {
+        "id": 631152,
+        "jobOrder": {
+          "id": 139737,
+          "title": "CST - Surgery - OR",
+          "dateAdded": 1675728842290,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59866,
+          "firstName": "Tammy",
+          "lastName": "Brown",
+          "owner": {
+            "id": 20947,
+            "firstName": "Paul",
+            "lastName": "Ulrich",
+            "name": "Paul Ulrich"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "FD84943C-28C3-4DF0-8D2B-97C2BC9081DA"
+    },
+    {
+      "id": 659147,
+      "dateAdded": 1677688840493,
+      "jobSubmission": {
+        "id": 631006,
+        "jobOrder": {
+          "id": 110233,
+          "title": "RN - Med-Surg - Float",
+          "dateAdded": 1665079028237,
+          "owner": {
+            "id": 54548,
+            "firstName": "Kayla",
+            "lastName": "Starbuck",
+            "name": "Kayla Starbuck"
+          }
+        },
+        "candidate": {
+          "id": 50723,
+          "firstName": "Paul",
+          "lastName": "LoPresto",
+          "owner": {
+            "id": 49448,
+            "firstName": "Paul",
+            "lastName": "LoPresto",
+            "name": "Paul LoPresto"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 49448,
+        "_subtype": "CorporateUser",
+        "firstName": "Paul",
+        "lastName": "LoPresto",
+        "name": "Paul LoPresto"
+      },
+      "status": "Internal Submission",
+      "transactionID": "72B45FB8-C677-4C49-B1AE-5268550A55B8"
+    },
+    {
+      "id": 658976,
+      "dateAdded": 1677686615987,
+      "jobSubmission": {
+        "id": 630838,
+        "jobOrder": {
+          "id": 143745,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677613566823,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 14846,
+          "firstName": "Shaunelle",
+          "lastName": "Williams",
+          "owner": {
+            "id": 9742,
+            "firstName": "Megan",
+            "lastName": "Hertz",
+            "name": "Megan Hertz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 307,
+        "_subtype": "CorporateUser",
+        "firstName": "Jason",
+        "lastName": "Barnes",
+        "name": "Jason Barnes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "FA4756AD-09BD-4573-9722-43AB6BC5540E"
+    },
+    {
+      "id": 658407,
+      "dateAdded": 1677641192377,
+      "jobSubmission": {
+        "id": 630276,
+        "jobOrder": {
+          "id": 143803,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677639609373,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 57167,
+          "firstName": "Rory",
+          "lastName": "Pattison",
+          "owner": {
+            "id": 51800,
+            "firstName": "Carlos",
+            "lastName": "Jauregui",
+            "name": "Carlos Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 51800,
+        "_subtype": "CorporateUser",
+        "firstName": "Carlos",
+        "lastName": "Jauregui",
+        "name": "Carlos Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "39F7950C-F510-4040-8566-43B3C2F44207"
+    },
+    {
+      "id": 658331,
+      "dateAdded": 1677634452677,
+      "jobSubmission": {
+        "id": 630202,
+        "jobOrder": {
+          "id": 143746,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677613568080,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 56848,
+          "firstName": "Steven",
+          "lastName": "Parrish",
+          "owner": {
+            "id": 10665,
+            "firstName": "Marco",
+            "lastName": "Ferrer-Ruiz",
+            "name": "Marco Ferrer-Ruiz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 10665,
+        "_subtype": "CorporateUser",
+        "firstName": "Marco",
+        "lastName": "Ferrer-Ruiz",
+        "name": "Marco Ferrer-Ruiz"
+      },
+      "status": "Internal Submission",
+      "transactionID": "585DE4B0-1481-455A-B5BA-803A3820FCB6"
+    },
+    {
+      "id": 658287,
+      "dateAdded": 1677630100930,
+      "jobSubmission": {
+        "id": 625655,
+        "jobOrder": {
+          "id": 142506,
+          "title": "RN - Surgery - OR",
+          "dateAdded": 1676995588990,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 59844,
+          "firstName": "Matthew ",
+          "lastName": "Thompson",
+          "owner": {
+            "id": 675,
+            "firstName": "Raul",
+            "lastName": "Mota",
+            "name": "Raul Mota"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 675,
+        "_subtype": "CorporateUser",
+        "firstName": "Raul",
+        "lastName": "Mota",
+        "name": "Raul Mota"
+      },
+      "status": "Internal Submission",
+      "transactionID": "CC426CD5-82A8-446A-8CAA-0A07C1D589B9"
+    },
+    {
+      "id": 658281,
+      "dateAdded": 1677629339030,
+      "jobSubmission": {
+        "id": 630167,
+        "jobOrder": {
+          "id": 140916,
+          "title": "RN - Med-Surg - Rehab",
+          "dateAdded": 1676050152527,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 19322,
+          "firstName": "Raye Carldine",
+          "lastName": "Arriesgado",
+          "owner": {
+            "id": 51799,
+            "firstName": "Bailey",
+            "lastName": "Humes",
+            "name": "Bailey Humes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 51799,
+        "_subtype": "CorporateUser",
+        "firstName": "Bailey",
+        "lastName": "Humes",
+        "name": "Bailey Humes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "7EA0BF3A-D227-49AF-8FCB-1B9ABA185D67"
+    },
+    {
+      "id": 658277,
+      "dateAdded": 1677628384950,
+      "jobSubmission": {
+        "id": 630166,
+        "jobOrder": {
+          "id": 143763,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677617372580,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 59746,
+          "firstName": "Lydia",
+          "lastName": "Alvarado",
+          "owner": {
+            "id": 47943,
+            "firstName": "Nitalya",
+            "lastName": "Young",
+            "name": "Nitalya Young"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "21947FDD-2FB0-43DF-9C6B-5079889EC083"
+    },
+    {
+      "id": 658133,
+      "dateAdded": 1677627833363,
+      "jobSubmission": {
+        "id": 630023,
+        "jobOrder": {
+          "id": 143458,
+          "title": "RN - Pediatrics - Peds",
+          "dateAdded": 1677521243547,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 59746,
+          "firstName": "Lydia",
+          "lastName": "Alvarado",
+          "owner": {
+            "id": 47943,
+            "firstName": "Nitalya",
+            "lastName": "Young",
+            "name": "Nitalya Young"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "FED4073B-F470-43D4-B862-888A2200573A"
+    },
+    {
+      "id": 658106,
+      "dateAdded": 1677627639153,
+      "jobSubmission": {
+        "id": 629997,
+        "jobOrder": {
+          "id": 142775,
+          "title": "RN - Pediatrics - PICU",
+          "dateAdded": 1677094401863,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 59746,
+          "firstName": "Lydia",
+          "lastName": "Alvarado",
+          "owner": {
+            "id": 47943,
+            "firstName": "Nitalya",
+            "lastName": "Young",
+            "name": "Nitalya Young"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "28364D89-F3F3-4C45-B32A-4A83509B0202"
+    },
+    {
+      "id": 658105,
+      "dateAdded": 1677627353517,
+      "jobSubmission": {
+        "id": 619023,
+        "jobOrder": {
+          "id": 141114,
+          "title": "RN - Pediatrics - PICU",
+          "dateAdded": 1676236063297,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59746,
+          "firstName": "Lydia",
+          "lastName": "Alvarado",
+          "owner": {
+            "id": 47943,
+            "firstName": "Nitalya",
+            "lastName": "Young",
+            "name": "Nitalya Young"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "EAC1A5BE-3839-4FC3-AD85-05ED3C4665C3"
+    },
+    {
+      "id": 658104,
+      "dateAdded": 1677626950143,
+      "jobSubmission": {
+        "id": 629996,
+        "jobOrder": {
+          "id": 143774,
+          "title": "RN - Surgery - PACU",
+          "dateAdded": 1677619155157,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 51935,
+          "firstName": "Rachael",
+          "lastName": "Palen",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "AB001967-163E-409C-867A-59BAFBD4C2AD"
+    },
+    {
+      "id": 658101,
+      "dateAdded": 1677626678213,
+      "jobSubmission": {
+        "id": 629993,
+        "jobOrder": {
+          "id": 142732,
+          "title": "RN - Surgery - PACU",
+          "dateAdded": 1677087712553,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 51935,
+          "firstName": "Rachael",
+          "lastName": "Palen",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "BB81561E-D7EA-42FA-B966-B86205DBF6C3"
+    },
+    {
+      "id": 658100,
+      "dateAdded": 1677626617590,
+      "jobSubmission": {
+        "id": 629992,
+        "jobOrder": {
+          "id": 143723,
+          "title": "RN - Surgery - PACU",
+          "dateAdded": 1677608608087,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 51935,
+          "firstName": "Rachael",
+          "lastName": "Palen",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "28A9EFC9-0AAD-4514-8746-A5A1918CBBC8"
+    },
+    {
+      "id": 658089,
+      "dateAdded": 1677626354180,
+      "jobSubmission": {
+        "id": 629981,
+        "jobOrder": {
+          "id": 143793,
+          "title": "RN - Telemetry",
+          "dateAdded": 1677626224767,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 57427,
+          "firstName": "Paige",
+          "lastName": "Tuttle",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "1603486A-FB7A-4D26-8C5E-293E90C1DD19"
+    },
+    {
+      "id": 658087,
+      "dateAdded": 1677626096450,
+      "jobSubmission": {
+        "id": 629722,
+        "jobOrder": {
+          "id": 142884,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677114070613,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 59396,
+          "firstName": "Shonnee S.",
+          "lastName": "Pryor",
+          "owner": {
+            "id": 57723,
+            "firstName": "Sandy",
+            "lastName": "Wong",
+            "name": "Sandy Wong"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "BD01E891-B9E9-45BB-9130-957CC5BDE13B"
+    },
+    {
+      "id": 657795,
+      "dateAdded": 1677622394423,
+      "jobSubmission": {
+        "id": 629694,
+        "jobOrder": {
+          "id": 143747,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677613569350,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 54307,
+          "firstName": "Jade",
+          "lastName": "McMahon",
+          "owner": {
+            "id": 26880,
+            "firstName": "Juan",
+            "lastName": "Nava",
+            "name": "Juan Nava"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 26880,
+        "_subtype": "CorporateUser",
+        "firstName": "Juan",
+        "lastName": "Nava",
+        "name": "Juan Nava"
+      },
+      "status": "Internal Submission",
+      "transactionID": "FEA7745A-404F-4789-AB7A-1DCF25DA4BB3"
+    },
+    {
+      "id": 657794,
+      "dateAdded": 1677621841880,
+      "jobSubmission": {
+        "id": 629693,
+        "jobOrder": {
+          "id": 143123,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677193676507,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 58912,
+          "firstName": "Ashley",
+          "lastName": "Bussey",
+          "owner": {
+            "id": 47943,
+            "firstName": "Nitalya",
+            "lastName": "Young",
+            "name": "Nitalya Young"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47943,
+        "_subtype": "CorporateUser",
+        "firstName": "Nitalya",
+        "lastName": "Young",
+        "name": "Nitalya Young"
+      },
+      "status": "Internal Submission",
+      "transactionID": "F85B3A90-1706-434B-96C9-27A9C03E7676"
+    },
+    {
+      "id": 657783,
+      "dateAdded": 1677620540767,
+      "jobSubmission": {
+        "id": 629685,
+        "jobOrder": {
+          "id": 138825,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1675704394380,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 59824,
+          "firstName": "Christopher",
+          "lastName": "Davis",
+          "owner": {
+            "id": 20947,
+            "firstName": "Paul",
+            "lastName": "Ulrich",
+            "name": "Paul Ulrich"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 20947,
+        "_subtype": "CorporateUser",
+        "firstName": "Paul",
+        "lastName": "Ulrich",
+        "name": "Paul Ulrich"
+      },
+      "status": "Internal Submission",
+      "transactionID": "ECA88675-7694-44B9-AA0A-63FF8AF7EBEA"
+    },
+    {
+      "id": 657708,
+      "dateAdded": 1677616100973,
+      "jobSubmission": {
+        "id": 629621,
+        "jobOrder": {
+          "id": 143745,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677613566823,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 6396,
+          "firstName": "George",
+          "lastName": "Jaramillo",
+          "owner": {
+            "id": 675,
+            "firstName": "Raul",
+            "lastName": "Mota",
+            "name": "Raul Mota"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 675,
+        "_subtype": "CorporateUser",
+        "firstName": "Raul",
+        "lastName": "Mota",
+        "name": "Raul Mota"
+      },
+      "status": "Internal Submission",
+      "transactionID": "0E640862-9871-4585-A299-217FBE214473"
+    },
+    {
+      "id": 657338,
+      "dateAdded": 1677615313743,
+      "jobSubmission": {
+        "id": 629254,
+        "jobOrder": {
+          "id": 141133,
+          "title": "RN - Med-Surg - Clinic",
+          "dateAdded": 1676300778047,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 59824,
+          "firstName": "Christopher",
+          "lastName": "Davis",
+          "owner": {
+            "id": 20947,
+            "firstName": "Paul",
+            "lastName": "Ulrich",
+            "name": "Paul Ulrich"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 20947,
+        "_subtype": "CorporateUser",
+        "firstName": "Paul",
+        "lastName": "Ulrich",
+        "name": "Paul Ulrich"
+      },
+      "status": "Internal Submission",
+      "transactionID": "7B4DB884-1BA7-42B5-82BD-2A73CD26A96D"
+    },
+    {
+      "id": 657337,
+      "dateAdded": 1677615198327,
+      "jobSubmission": {
+        "id": 629253,
+        "jobOrder": {
+          "id": 143744,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677613565580,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 43678,
+          "firstName": "Sergio",
+          "lastName": "Alvarado-Valdez",
+          "owner": {
+            "id": 26880,
+            "firstName": "Juan",
+            "lastName": "Nava",
+            "name": "Juan Nava"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 26880,
+        "_subtype": "CorporateUser",
+        "firstName": "Juan",
+        "lastName": "Nava",
+        "name": "Juan Nava"
+      },
+      "status": "Internal Submission",
+      "transactionID": "9B01D1A8-692E-4FAB-AEE6-661374808E7B"
+    },
+    {
+      "id": 657336,
+      "dateAdded": 1677615067177,
+      "jobSubmission": {
+        "id": 629252,
+        "jobOrder": {
+          "id": 138187,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1675280391917,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 51935,
+          "firstName": "Rachael",
+          "lastName": "Palen",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "E86F9069-1098-416A-8207-1D4355902C8E"
+    },
+    {
+      "id": 657335,
+      "dateAdded": 1677614870210,
+      "jobSubmission": {
+        "id": 629251,
+        "jobOrder": {
+          "id": 142957,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677172699293,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 59824,
+          "firstName": "Christopher",
+          "lastName": "Davis",
+          "owner": {
+            "id": 20947,
+            "firstName": "Paul",
+            "lastName": "Ulrich",
+            "name": "Paul Ulrich"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 20947,
+        "_subtype": "CorporateUser",
+        "firstName": "Paul",
+        "lastName": "Ulrich",
+        "name": "Paul Ulrich"
+      },
+      "status": "Internal Submission",
+      "transactionID": "40ABEB2D-BBC8-402B-A83B-310E9FC4059F"
+    },
+    {
+      "id": 657333,
+      "dateAdded": 1677614167273,
+      "jobSubmission": {
+        "id": 629250,
+        "jobOrder": {
+          "id": 141899,
+          "title": "RN - Surgery - PACU",
+          "dateAdded": 1676572349607,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 54299,
+          "firstName": "Alexis",
+          "lastName": "Perona",
+          "owner": {
+            "id": 15051,
+            "firstName": "Janet",
+            "lastName": "Jauregui",
+            "name": "Janet Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 15051,
+        "_subtype": "CorporateUser",
+        "firstName": "Janet",
+        "lastName": "Jauregui",
+        "name": "Janet Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "A8338F8B-AA98-4D93-9041-DCC2DB4979F7"
+    },
+    {
+      "id": 657119,
+      "dateAdded": 1677612550733,
+      "jobSubmission": {
+        "id": 629041,
+        "jobOrder": {
+          "id": 143739,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677612519827,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 12877,
+          "firstName": "Laura",
+          "lastName": "Ballard",
+          "owner": {
+            "id": 9742,
+            "firstName": "Megan",
+            "lastName": "Hertz",
+            "name": "Megan Hertz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47027,
+        "_subtype": "CorporateUser",
+        "firstName": "Katelyn",
+        "lastName": "Fuller",
+        "name": "Katelyn Fuller"
+      },
+      "status": "Internal Submission",
+      "transactionID": "13401D4A-1F93-4FAA-897D-7AD5BAE64AE2"
+    },
+    {
+      "id": 656951,
+      "dateAdded": 1677607579487,
+      "jobSubmission": {
+        "id": 628899,
+        "jobOrder": {
+          "id": 143501,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677528874630,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 54299,
+          "firstName": "Alexis",
+          "lastName": "Perona",
+          "owner": {
+            "id": 15051,
+            "firstName": "Janet",
+            "lastName": "Jauregui",
+            "name": "Janet Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 15051,
+        "_subtype": "CorporateUser",
+        "firstName": "Janet",
+        "lastName": "Jauregui",
+        "name": "Janet Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "A150A874-C6B7-44BF-8AA6-5F70F73F2ECF"
+    },
+    {
+      "id": 656949,
+      "dateAdded": 1677607159993,
+      "jobSubmission": {
+        "id": 628897,
+        "jobOrder": {
+          "id": 142844,
+          "title": "CST - Surgery - OR",
+          "dateAdded": 1677103272070,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 51657,
+          "firstName": "Joell",
+          "lastName": "Turner ",
+          "owner": {
+            "id": 47943,
+            "firstName": "Nitalya",
+            "lastName": "Young",
+            "name": "Nitalya Young"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47943,
+        "_subtype": "CorporateUser",
+        "firstName": "Nitalya",
+        "lastName": "Young",
+        "name": "Nitalya Young"
+      },
+      "status": "Internal Submission",
+      "transactionID": "AE98D17F-DD50-457D-8762-C207BA62A2B1"
+    },
+    {
+      "id": 656948,
+      "dateAdded": 1677607134990,
+      "jobSubmission": {
+        "id": 628896,
+        "jobOrder": {
+          "id": 124998,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1670033877327,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 54299,
+          "firstName": "Alexis",
+          "lastName": "Perona",
+          "owner": {
+            "id": 15051,
+            "firstName": "Janet",
+            "lastName": "Jauregui",
+            "name": "Janet Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 15051,
+        "_subtype": "CorporateUser",
+        "firstName": "Janet",
+        "lastName": "Jauregui",
+        "name": "Janet Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "8591EA3A-360C-47E5-AA86-7FF523E1B0FA"
+    },
+    {
+      "id": 656939,
+      "dateAdded": 1677606936357,
+      "jobSubmission": {
+        "id": 628888,
+        "jobOrder": {
+          "id": 143619,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677589469667,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 59887,
+          "firstName": "Jose",
+          "lastName": "Hernandez",
+          "owner": {
+            "id": 9742,
+            "firstName": "Megan",
+            "lastName": "Hertz",
+            "name": "Megan Hertz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 307,
+        "_subtype": "CorporateUser",
+        "firstName": "Jason",
+        "lastName": "Barnes",
+        "name": "Jason Barnes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "0332033D-6667-4E0D-B1C3-1A4CCFC7A41E"
+    },
+    {
+      "id": 656938,
+      "dateAdded": 1677606792250,
+      "jobSubmission": {
+        "id": 628887,
+        "jobOrder": {
+          "id": 143693,
+          "title": "RN - Surgery - Pre/Op",
+          "dateAdded": 1677604449257,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 51935,
+          "firstName": "Rachael",
+          "lastName": "Palen",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "C92C17E4-F336-4F91-A79B-DDED313C9670"
+    },
+    {
+      "id": 656864,
+      "dateAdded": 1677604973707,
+      "jobSubmission": {
+        "id": 628817,
+        "jobOrder": {
+          "id": 143590,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677538173083,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 57167,
+          "firstName": "Rory",
+          "lastName": "Pattison",
+          "owner": {
+            "id": 51800,
+            "firstName": "Carlos",
+            "lastName": "Jauregui",
+            "name": "Carlos Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 51800,
+        "_subtype": "CorporateUser",
+        "firstName": "Carlos",
+        "lastName": "Jauregui",
+        "name": "Carlos Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "AB202555-EAE8-4F1F-B164-655617B89B82"
+    },
+    {
+      "id": 656652,
+      "dateAdded": 1677593405643,
+      "jobSubmission": {
+        "id": 628202,
+        "jobOrder": {
+          "id": 143586,
+          "title": "RN - Labor & Delivery",
+          "dateAdded": 1677537004880,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59647,
+          "firstName": "Austyn",
+          "lastName": "Evans",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 307,
+        "_subtype": "CorporateUser",
+        "firstName": "Jason",
+        "lastName": "Barnes",
+        "name": "Jason Barnes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "1D9561E7-5C5D-4CEF-9D96-D530EAF43ABD"
+    },
+    {
+      "id": 656589,
+      "dateAdded": 1677564714013,
+      "jobSubmission": {
+        "id": 628556,
+        "jobOrder": {
+          "id": 143410,
+          "title": "CST - Surgery - OR",
+          "dateAdded": 1677512772200,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 51373,
+          "firstName": "Dakota",
+          "lastName": "Hallman",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "D1386B12-D2B2-4520-9C56-A6148D76A67C"
+    },
+    {
+      "id": 656588,
+      "dateAdded": 1677564388693,
+      "jobSubmission": {
+        "id": 628555,
+        "jobOrder": {
+          "id": 141742,
+          "title": "RN - Surgery - PACU",
+          "dateAdded": 1676491570163,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 51935,
+          "firstName": "Rachael",
+          "lastName": "Palen",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "8A9B0F57-DF83-4208-930E-206F2ACC6AA9"
+    },
+    {
+      "id": 656587,
+      "dateAdded": 1677562606657,
+      "jobSubmission": {
+        "id": 628554,
+        "jobOrder": {
+          "id": 143472,
+          "title": "RN - Surgery - PACU",
+          "dateAdded": 1677522430183,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 51935,
+          "firstName": "Rachael",
+          "lastName": "Palen",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "B47EF33F-57D6-4CE6-8FF3-2E77A1B82620"
+    },
+    {
+      "id": 656492,
+      "dateAdded": 1677544981570,
+      "jobSubmission": {
+        "id": 628484,
+        "jobOrder": {
+          "id": 143610,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1677544570287,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 15053,
+          "firstName": "Jill ",
+          "lastName": "Sherlock",
+          "owner": {
+            "id": 15052,
+            "firstName": "Annie",
+            "lastName": "Weigel",
+            "name": "Annie Weigel"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 15052,
+        "_subtype": "CorporateUser",
+        "firstName": "Annie",
+        "lastName": "Weigel",
+        "name": "Annie Weigel"
+      },
+      "status": "Internal Submission",
+      "transactionID": "D83B685C-12AF-4E7C-BA7C-493E5494FDB8"
+    },
+    {
+      "id": 656332,
+      "dateAdded": 1677544697063,
+      "jobSubmission": {
+        "id": 628335,
+        "jobOrder": {
+          "id": 123293,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1669234587993,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 54299,
+          "firstName": "Alexis",
+          "lastName": "Perona",
+          "owner": {
+            "id": 15051,
+            "firstName": "Janet",
+            "lastName": "Jauregui",
+            "name": "Janet Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 15051,
+        "_subtype": "CorporateUser",
+        "firstName": "Janet",
+        "lastName": "Jauregui",
+        "name": "Janet Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "24F2BFA8-2DB5-41F4-9FB5-3BE863CD053D"
+    },
+    {
+      "id": 656323,
+      "dateAdded": 1677542941603,
+      "jobSubmission": {
+        "id": 628329,
+        "jobOrder": {
+          "id": 142844,
+          "title": "CST - Surgery - OR",
+          "dateAdded": 1677103272070,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59896,
+          "firstName": "Skyllar",
+          "lastName": "Savona",
+          "owner": {
+            "id": 10665,
+            "firstName": "Marco",
+            "lastName": "Ferrer-Ruiz",
+            "name": "Marco Ferrer-Ruiz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 10665,
+        "_subtype": "CorporateUser",
+        "firstName": "Marco",
+        "lastName": "Ferrer-Ruiz",
+        "name": "Marco Ferrer-Ruiz"
+      },
+      "status": "Internal Submission",
+      "transactionID": "0C7E61A6-611A-471A-82C3-FC43D4ACAEBD"
+    },
+    {
+      "id": 656313,
+      "dateAdded": 1677541158510,
+      "jobSubmission": {
+        "id": 628323,
+        "jobOrder": {
+          "id": 143218,
+          "title": "RN - Surgery - PACU",
+          "dateAdded": 1677258854877,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 51935,
+          "firstName": "Rachael",
+          "lastName": "Palen",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "5D8B0F43-B6E5-4ADD-A53B-B9D693B971E8"
+    },
+    {
+      "id": 656308,
+      "dateAdded": 1677540382897,
+      "jobSubmission": {
+        "id": 628320,
+        "jobOrder": {
+          "id": 143530,
+          "title": "RN - Labor & Delivery",
+          "dateAdded": 1677530186797,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59799,
+          "firstName": "Deborah",
+          "lastName": "Downes",
+          "owner": {
+            "id": 57726,
+            "firstName": "Miriah Jo",
+            "lastName": "Reiss",
+            "name": "Miriah Jo Reiss"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 57726,
+        "_subtype": "CorporateUser",
+        "firstName": "Miriah Jo",
+        "lastName": "Reiss",
+        "name": "Miriah Jo Reiss"
+      },
+      "status": "Internal Submission",
+      "transactionID": "5D46E988-BB5E-4F27-979B-C104053A6CA8"
+    },
+    {
+      "id": 656306,
+      "dateAdded": 1677540328863,
+      "jobSubmission": {
+        "id": 628170,
+        "jobOrder": {
+          "id": 141066,
+          "title": "RN - Med-Surg",
+          "dateAdded": 1676077529303,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 59748,
+          "firstName": "Sepideh",
+          "lastName": "Emad",
+          "owner": {
+            "id": 20947,
+            "firstName": "Paul",
+            "lastName": "Ulrich",
+            "name": "Paul Ulrich"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 20947,
+        "_subtype": "CorporateUser",
+        "firstName": "Paul",
+        "lastName": "Ulrich",
+        "name": "Paul Ulrich"
+      },
+      "status": "Internal Submission",
+      "transactionID": "ADB47E1F-84D1-4D77-BA91-744DC5B7A774"
+    },
+    {
+      "id": 656173,
+      "dateAdded": 1677536654157,
+      "jobSubmission": {
+        "id": 625661,
+        "jobOrder": {
+          "id": 138262,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1675335985183,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 59643,
+          "firstName": "Elroy",
+          "lastName": "Richards",
+          "owner": {
+            "id": 57726,
+            "firstName": "Miriah Jo",
+            "lastName": "Reiss",
+            "name": "Miriah Jo Reiss"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 57726,
+        "_subtype": "CorporateUser",
+        "firstName": "Miriah Jo",
+        "lastName": "Reiss",
+        "name": "Miriah Jo Reiss"
+      },
+      "status": "Internal Submission",
+      "transactionID": "89DA0573-BCF8-4E74-8C08-9C836504FAEE"
+    },
+    {
+      "id": 656163,
+      "dateAdded": 1677535895997,
+      "jobSubmission": {
+        "id": 628183,
+        "jobOrder": {
+          "id": 109587,
+          "title": "RN - Critical Care - ICU",
+          "dateAdded": 1664913955327,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 59887,
+          "firstName": "Jose",
+          "lastName": "Hernandez",
+          "owner": {
+            "id": 9742,
+            "firstName": "Megan",
+            "lastName": "Hertz",
+            "name": "Megan Hertz"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 307,
+        "_subtype": "CorporateUser",
+        "firstName": "Jason",
+        "lastName": "Barnes",
+        "name": "Jason Barnes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "1ED40454-8503-4D29-93D7-A37CB5BA7125"
+    },
+    {
+      "id": 656162,
+      "dateAdded": 1677535240570,
+      "jobSubmission": {
+        "id": 628182,
+        "jobOrder": {
+          "id": 141310,
+          "title": "RN - Pediatrics - PICU",
+          "dateAdded": 1676310155323,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59306,
+          "firstName": "Katherine",
+          "lastName": "Daily",
+          "owner": {
+            "id": 51799,
+            "firstName": "Bailey",
+            "lastName": "Humes",
+            "name": "Bailey Humes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 51799,
+        "_subtype": "CorporateUser",
+        "firstName": "Bailey",
+        "lastName": "Humes",
+        "name": "Bailey Humes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "28C73BB2-3247-496A-87F5-D5CE217A5573"
+    },
+    {
+      "id": 656140,
+      "dateAdded": 1677533384643,
+      "jobSubmission": {
+        "id": 625117,
+        "jobOrder": {
+          "id": 143233,
+          "title": "RN - Labor & Delivery",
+          "dateAdded": 1677262091997,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59799,
+          "firstName": "Deborah",
+          "lastName": "Downes",
+          "owner": {
+            "id": 57726,
+            "firstName": "Miriah Jo",
+            "lastName": "Reiss",
+            "name": "Miriah Jo Reiss"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 57726,
+        "_subtype": "CorporateUser",
+        "firstName": "Miriah Jo",
+        "lastName": "Reiss",
+        "name": "Miriah Jo Reiss"
+      },
+      "status": "Internal Submission",
+      "transactionID": "60B9B751-D2D5-44BB-A2D6-E5C75D98942D"
+    },
+    {
+      "id": 656103,
+      "dateAdded": 1677531417643,
+      "jobSubmission": {
+        "id": 627952,
+        "jobOrder": {
+          "id": 142989,
+          "title": "CST - Surgery - OR",
+          "dateAdded": 1677176595013,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 59866,
+          "firstName": "Tammy",
+          "lastName": "Brown",
+          "owner": {
+            "id": 20947,
+            "firstName": "Paul",
+            "lastName": "Ulrich",
+            "name": "Paul Ulrich"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "F13E55BA-3788-45E1-8168-716E3AC73DC4"
+    },
+    {
+      "id": 655844,
+      "dateAdded": 1677528639503,
+      "jobSubmission": {
+        "id": 627954,
+        "jobOrder": {
+          "id": 142687,
+          "title": "RN - Surgery - CVOR",
+          "dateAdded": 1677084193063,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 44588,
+          "firstName": "Jessica",
+          "lastName": "Sorah",
+          "owner": {
+            "id": 41934,
+            "firstName": "Thalia",
+            "lastName": "Jauregui",
+            "name": "Thalia Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 41934,
+        "_subtype": "CorporateUser",
+        "firstName": "Thalia",
+        "lastName": "Jauregui",
+        "name": "Thalia Jauregui"
+      },
+      "status": "Internal Submission",
+      "transactionID": "847F2C87-E920-483F-919B-C92303921853"
+    },
+    {
+      "id": 655721,
+      "dateAdded": 1677525915657,
+      "jobSubmission": {
+        "id": 627887,
+        "jobOrder": {
+          "id": 143485,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677525319137,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 59808,
+          "firstName": "Christy",
+          "lastName": "Mottshaw",
+          "owner": {
+            "id": 26880,
+            "firstName": "Juan",
+            "lastName": "Nava",
+            "name": "Juan Nava"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "EA784528-B343-4C78-B5B3-22083DAA3635"
+    },
+    {
+      "id": 655615,
+      "dateAdded": 1677524684270,
+      "jobSubmission": {
+        "id": 627874,
+        "jobOrder": {
+          "id": 136870,
+          "title": "RN - Surgery - PACU",
+          "dateAdded": 1674597448923,
+          "owner": {
+            "id": 47027,
+            "firstName": "Katelyn",
+            "lastName": "Fuller",
+            "name": "Katelyn Fuller"
+          }
+        },
+        "candidate": {
+          "id": 59720,
+          "firstName": "Nayu",
+          "lastName": "Llanez",
+          "owner": {
+            "id": 51800,
+            "firstName": "Carlos",
+            "lastName": "Jauregui",
+            "name": "Carlos Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "5AE1F561-EC04-48A1-8C0E-8FD2D0F23E59"
+    },
+    {
+      "id": 655371,
+      "dateAdded": 1677523841000,
+      "jobSubmission": {
+        "id": 627377,
+        "jobOrder": {
+          "id": 143436,
+          "title": "RN - Labor & Delivery",
+          "dateAdded": 1677519073000,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 46548,
+          "firstName": "Brittany",
+          "lastName": "Jaber",
+          "owner": {
+            "id": 8822,
+            "firstName": "Ryan",
+            "lastName": "Bickett-Hickok",
+            "name": "Ryan Bickett-Hickok"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8822,
+        "_subtype": "CorporateUser",
+        "firstName": "Ryan",
+        "lastName": "Bickett-Hickok",
+        "name": "Ryan Bickett-Hickok"
+      },
+      "status": "Internal Submission",
+      "transactionID": "748E547F-CBC4-4A80-924C-9D6BD02A4F21"
+    },
+    {
+      "id": 655361,
+      "dateAdded": 1677523173470,
+      "jobSubmission": {
+        "id": 627631,
+        "jobOrder": {
+          "id": 143436,
+          "title": "RN - Labor & Delivery",
+          "dateAdded": 1677519073000,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 6827,
+          "firstName": "Janine",
+          "lastName": "Duong",
+          "owner": {
+            "id": 15051,
+            "firstName": "Janet",
+            "lastName": "Jauregui",
+            "name": "Janet Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 307,
+        "_subtype": "CorporateUser",
+        "firstName": "Jason",
+        "lastName": "Barnes",
+        "name": "Jason Barnes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "AD2B8B82-5A65-43F7-8B03-978A0D390832"
+    },
+    {
+      "id": 655297,
+      "dateAdded": 1677522241887,
+      "jobSubmission": {
+        "id": 627618,
+        "jobOrder": {
+          "id": 141677,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1676481259313,
+          "owner": {
+            "id": 26307,
+            "firstName": "Haley",
+            "lastName": "Voigt",
+            "name": "Haley Voigt"
+          }
+        },
+        "candidate": {
+          "id": 59808,
+          "firstName": "Christy",
+          "lastName": "Mottshaw",
+          "owner": {
+            "id": 26880,
+            "firstName": "Juan",
+            "lastName": "Nava",
+            "name": "Juan Nava"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 8823,
+        "_subtype": "CorporateUser",
+        "firstName": "Cheyenne",
+        "lastName": "Haggard",
+        "name": "Cheyenne Haggard"
+      },
+      "status": "Internal Submission",
+      "transactionID": "2CC64067-2549-4B41-A95A-74C0DD5CA731"
+    },
+    {
+      "id": 655267,
+      "dateAdded": 1677521573797,
+      "jobSubmission": {
+        "id": 627379,
+        "jobOrder": {
+          "id": 143436,
+          "title": "RN - Labor & Delivery",
+          "dateAdded": 1677519073000,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 59637,
+          "firstName": "Nina",
+          "lastName": "Fuentes",
+          "owner": {
+            "id": 26880,
+            "firstName": "Juan",
+            "lastName": "Nava",
+            "name": "Juan Nava"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 26880,
+        "_subtype": "CorporateUser",
+        "firstName": "Juan",
+        "lastName": "Nava",
+        "name": "Juan Nava"
+      },
+      "status": "Internal Submission",
+      "transactionID": "AFAA2608-CB22-455E-B335-7469F1746C35"
+    },
+    {
+      "id": 655050,
+      "dateAdded": 1677519872480,
+      "jobSubmission": {
+        "id": 626380,
+        "jobOrder": {
+          "id": 143305,
+          "title": "RN - Emergency Room",
+          "dateAdded": 1677280570757,
+          "owner": {
+            "id": 11061,
+            "firstName": "Mark",
+            "lastName": "Pearsall",
+            "name": "Mark Pearsall"
+          }
+        },
+        "candidate": {
+          "id": 44217,
+          "firstName": "Amie",
+          "lastName": "Ferdig",
+          "owner": {
+            "id": 26880,
+            "firstName": "Juan",
+            "lastName": "Nava",
+            "name": "Juan Nava"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 11061,
+        "_subtype": "CorporateUser",
+        "firstName": "Mark",
+        "lastName": "Pearsall",
+        "name": "Mark Pearsall"
+      },
+      "status": "Internal Submission",
+      "transactionID": "D60BB63E-9878-48FB-900C-C4A4E4211E3E"
+    },
+    {
+      "id": 654770,
+      "dateAdded": 1677518152677,
+      "jobSubmission": {
+        "id": 627106,
+        "jobOrder": {
+          "id": 142195,
+          "title": "RN - Labor & Delivery",
+          "dateAdded": 1676680873423,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 6827,
+          "firstName": "Janine",
+          "lastName": "Duong",
+          "owner": {
+            "id": 15051,
+            "firstName": "Janet",
+            "lastName": "Jauregui",
+            "name": "Janet Jauregui"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 307,
+        "_subtype": "CorporateUser",
+        "firstName": "Jason",
+        "lastName": "Barnes",
+        "name": "Jason Barnes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "9C91C948-60EC-4870-A4AC-99692FF173CC"
+    },
+    {
+      "id": 654761,
+      "dateAdded": 1677516136923,
+      "jobSubmission": {
+        "id": 627098,
+        "jobOrder": {
+          "id": 143324,
+          "title": "RN - Surgery - PACU",
+          "dateAdded": 1677371221077,
+          "owner": {
+            "id": 20190,
+            "firstName": "Crystal",
+            "lastName": "Kibby",
+            "name": "Crystal Kibby"
+          }
+        },
+        "candidate": {
+          "id": 51935,
+          "firstName": "Rachael",
+          "lastName": "Palen",
+          "owner": {
+            "id": 47942,
+            "firstName": "Lindsay",
+            "lastName": "Haynes",
+            "name": "Lindsay Haynes"
+          }
+        }
+      },
+      "modifyingUser": {
+        "id": 47942,
+        "_subtype": "CorporateUser",
+        "firstName": "Lindsay",
+        "lastName": "Haynes",
+        "name": "Lindsay Haynes"
+      },
+      "status": "Internal Submission",
+      "transactionID": "8036E502-9AF5-4C74-8F37-361D216FC607"
+    }
+  ]
+}
