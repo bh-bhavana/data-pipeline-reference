@@ -56,6 +56,8 @@ XML Output on S3: https://bluepipes-xml-feed.s3.us-west-2.amazonaws.com/bluepipe
 
 #[BHAuth Class](./BHAuth.mjs) (Bullhorn OAuth2.0)
 
+Bullhorn OAuth2.0 guide: https://bullhorn.github.io/Getting-Started-with-REST/
+
 ###Process:
 
 1. Check the token's validity: Use the ping() method to determine if the last known token, stored in DynamoDB, is still valid. Tokens expire every 30 minutes.
